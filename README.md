@@ -5,7 +5,7 @@ Share resources and findings here: [https://github.com/codeaholicshk/hackathons.
 
 
 
-Leap Motion with Sphero
+Running Team
 =============================
 
 https://github.com/josephktcheung/spheron-leap
