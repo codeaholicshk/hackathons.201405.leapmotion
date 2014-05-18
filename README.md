@@ -12,6 +12,8 @@ Running Team
 Measurement Tools
 ============================
 
-[https://github.com/codeaholicshk/leap-motion-measure-distance](https://github.com/codeaholicshk/leap-motion-measure-distance)
+* source code: [https://github.com/codeaholicshk/leap-motion-measure-distance](https://github.com/codeaholicshk/leap-motion-measure-distance)
+* video: [https://www.youtube.com/watch?v=utQBiYCfYi4](https://www.youtube.com/watch?v=utQBiYCfYi4)
+* video: [https://www.youtube.com/watch?v=1CSUPCBoxio](https://www.youtube.com/watch?v=1CSUPCBoxio)
 
 [https://github.com/codeaholicshk/leap-motion-surface-zone-detection](https://github.com/codeaholicshk/leap-motion-surface-zone-detection)
