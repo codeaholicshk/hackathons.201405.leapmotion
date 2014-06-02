@@ -9,6 +9,23 @@ Running Team
 
 [https://github.com/josephktcheung/spheron-leap](https://github.com/josephktcheung/spheron-leap)
 
+
+Hand Gesture Trainer
+=============================
+
+Train the program to recognize gesture using brain.js
+
+[https://github.com/kannan-chandra/leap-gesture-trainer](https://github.com/kannan-chandra/leap-gesture-trainer)
+
+
+Hand Binary Keyboard
+=============================
+
+input 32 different characters using right hand, and "type" using left hand grab
+
+[https://github.com/kannan-chandra/leap-binary-keyboard](https://github.com/kannan-chandra/leap-binary-keyboard)
+
+
 Measurement Tools
 ============================
 
