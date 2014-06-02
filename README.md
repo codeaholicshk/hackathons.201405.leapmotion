@@ -46,4 +46,4 @@ Leap Drone
 Hand gesture to control AR Drone.
 
 * source code [https://github.com/codeaholicshk/leap_js_ar_drone_node](https://github.com/codeaholicshk/leap_js_ar_drone_node)
-* video: 
+* video: [https://www.youtube.com/watch?v=XEq-DTvj9cE](https://www.youtube.com/watch?v=XEq-DTvj9cE)
