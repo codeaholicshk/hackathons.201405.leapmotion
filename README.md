@@ -7,6 +7,8 @@ Share resources and findings here: [https://github.com/codeaholicshk/hackathons.
 Running Team
 =============================
 
+Use two fingers to run the Sphero and the animation on screen
+
 [https://github.com/josephktcheung/spheron-leap](https://github.com/josephktcheung/spheron-leap)
 
 
@@ -29,6 +31,8 @@ input 32 different characters using right hand, and "type" using left hand grab
 Measurement Tools
 ============================
 
+script to measure physical space. As part of leap motion calibration step for any Leap Motion apps.
+
 * source code: [https://github.com/codeaholicshk/leap-motion-measure-distance](https://github.com/codeaholicshk/leap-motion-measure-distance)
 * video: [https://www.youtube.com/watch?v=utQBiYCfYi4](https://www.youtube.com/watch?v=utQBiYCfYi4)
 * video: [https://www.youtube.com/watch?v=1CSUPCBoxio](https://www.youtube.com/watch?v=1CSUPCBoxio)
@@ -38,6 +42,8 @@ Measurement Tools
 
 Leap Drone
 ============================
+
+Hand gesture to control AR Drone.
 
 * source code [https://github.com/codeaholicshk/leap_js_ar_drone_node](https://github.com/codeaholicshk/leap_js_ar_drone_node)
 * video: 
